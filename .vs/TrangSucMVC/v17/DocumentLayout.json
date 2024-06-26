@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|c:\\workspace\\c#\\cnpm\\trangsucmvc\\trangsucmvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|solutionrelative:trangsucmvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|c:\\workspace\\c#\\cnpm\\trangsucmvc\\trangsucmvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|solutionrelative:trangsucmvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|c:\\workspace\\c#\\cnpm\\trangsucmvc\\trangsucmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|solutionrelative:trangsucmvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|c:\\workspace\\c#\\cnpm\\trangsucmvc\\trangsucmvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|solutionrelative:trangsucmvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|c:\\workspace\\c#\\cnpm\\trangsucmvc\\trangsucmvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE1DAE80-C4F1-4783-BC5E-B616EC6E5FBC}|TrangSucMVC\\TrangSucMVC.csproj|solutionrelative:trangsucmvc\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "TrangSucMVC\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "TrangSucMVC\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwIYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:20:23.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "TrangSucMVC\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "TrangSucMVC\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAOEBAAAAAAAAAAAAAPMBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T13:15:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "TrangSucMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "TrangSucMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T13:08:14.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrangSucMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "TrangSucMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T13:02:08.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "TrangSucMVC\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Workspace\\c#\\CNPM\\TrangSucMVC\\TrangSucMVC\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "TrangSucMVC\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T12:54:19.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
